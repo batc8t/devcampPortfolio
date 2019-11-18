@@ -1,4 +1,4 @@
-# DEVCAMP PORTFOLIO
+# GHOST'S DEVCAMP PORTFOLIO
 ![LOGO](/images/pendemic.png)
 > This is a Ruby 6 application that allows users to create their own portfolios.
 
