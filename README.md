@@ -1,24 +1,16 @@
 # DEVCAMP PORTFOLIO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a Ruby 6 application that allows users to create their own portfolios.
 
-Things you may want to cover:
+### features
+* Real time chat enhgine for comments.
+* Blog.
+* Portfolio.
+* Drag and drop interface.
 
-* Ruby version
+### code examples.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```ruby
+	def method_name
+		puts "here it is"	
+	end
