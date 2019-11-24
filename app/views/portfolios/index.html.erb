@@ -2,8 +2,9 @@
 <hr>
 
 <% @portfolio_items.each do |portfolio_item| %>
-	<p><%= portfolio_item.title %></p>
-	<p><%= portfolio_item.subtitle %></p>
-	<p><%= portfolio_item.body %></p>
+	<p style="color: indigo; font-weight:bold;"><%= portfolio_item.title %></p>
+	<p style="color: indigo; font-weight:bold;"><%= portfolio_item.subtitle %></p>
+	<p style="background: lightgrey "><%= portfolio_item.body %></p>
 	<%= image_tag portfolio_item.thumb_image %>
+	<hr>
 <% end %>
